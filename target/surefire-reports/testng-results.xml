@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27410" started-at="2021-09-04T16:36:03 IST" finished-at="2021-09-04T16:36:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27410" started-at="2021-09-04T16:36:03 IST" finished-at="2021-09-04T16:36:30 IST">
+      <class name="Launch">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Launch@ff5b51f]" name="launch" duration-ms="26049" started-at="2021-09-04T16:36:03 IST" finished-at="2021-09-04T16:36:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Launch@ff5b51f]" name="teardown" is-config="true" duration-ms="1321" started-at="2021-09-04T16:36:29 IST" finished-at="2021-09-04T16:36:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Launch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
