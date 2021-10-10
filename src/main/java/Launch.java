@@ -90,7 +90,7 @@ try {
 WebElement tar2= driver.findElement(By.xpath("//a[contains(text(),'Flash Movie Demo')]"));
 
 
-tar2.click();
+//tar2.click();
 
 
 
