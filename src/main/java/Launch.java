@@ -41,12 +41,15 @@ driver=new ChromeDriver();
 
 
 
-driver.get("http://www.demo.guru99.com/V4/");
+driver.get("https://www.flipkart.com");
+driver.manage().window().maximize();
+/*
 WebElement username= driver.findElement(By.name("uid"));
 
 WebElement password= driver.findElement(By.name("password"));
 
 WebElement loginbtn = driver.findElement(By.name("btnLogin"));
+*/
 /*driver.findElement(By.name("uid")).clear();
 driver.findElement(By.name("uid")).sendKeys("mngr287263");
 // Enter valid Password
@@ -56,6 +59,7 @@ driver.findElement(By.name("password")).sendKeys("qAhYjut");
 driver.findElement(By.name("btnLogin")).click();
 
 */
+/*
 username.clear();
 username.sendKeys("mngr355656");
 password.clear();
@@ -91,6 +95,7 @@ WebElement tar2= driver.findElement(By.xpath("//a[contains(text(),'Flash Movie D
 
 
 //tar2.click();
+*/
 System.out.println("working fine");
 
 
