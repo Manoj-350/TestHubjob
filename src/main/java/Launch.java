@@ -49,16 +49,16 @@ WebElement username= driver.findElement(By.name("uid"));
 WebElement password= driver.findElement(By.name("password"));
 
 WebElement loginbtn = driver.findElement(By.name("btnLogin"));
-
+/*
 driver.findElement(By.name("uid")).clear();
-driver.findElement(By.name("uid")).sendKeys("mngr287263");
+driver.findElement(By.name("uid")).sendKeys("mngr371386");
 // Enter valid Password
 driver.findElement(By.name("password")).clear();
-driver.findElement(By.name("password")).sendKeys("qAhYjut");
+driver.findElement(By.name("password")).sendKeys("YhyrYvu");
 // Click Login
 driver.findElement(By.name("btnLogin")).click();
 
-
+*/
 
 username.clear();
 username.sendKeys("mngr371386");
