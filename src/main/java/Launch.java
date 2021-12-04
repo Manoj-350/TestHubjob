@@ -96,11 +96,9 @@ WebElement tar2= driver.findElement(By.xpath("//a[contains(text(),'Flash Movie D
 
 //tar2.click();
 
-<<<<<<< HEAD
 System.out.println("working fine b9");
-=======
-System.out.println("working fine b8");
->>>>>>> 590e03cdba1f30188b77f6f3769443cd34c2c7db
+
+
 
 
 
